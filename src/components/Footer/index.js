@@ -6,7 +6,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="/">
-      <img className="Logo" src={Logo} alt="MarkFlix Logo"/>
+         <img className="Logo" src={Logo} alt="MarkFlix Logo"/>
       </a>
       <p>
         Orgulhosamente criado durante a
